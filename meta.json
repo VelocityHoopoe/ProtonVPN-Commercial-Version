@@ -1,0 +1,23 @@
+{
+  "repo": "protonvpn-commercial-version",
+  "product": "ProtonVPN Commercial Version",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "protonvpn",
+    "vpn-client",
+    "how-to-install-protonvpn",
+    "how-to-setup-protonvpn",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "protonvpn-commercial-version",
+    "protonvpn-for-windows"
+  ],
+  "site": "unaflore.co",
+  "product_title": "ProtonVPN Commercial Version"
+}
